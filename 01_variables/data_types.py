@@ -10,4 +10,9 @@ name = "Cyrus"
 
 print(age)
 print(name)
+
 print(price)
+
+print(is_employee)
+
+
